@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/maryamilyaskhan27-afk/nike-project</loc>
+  <lastmod>2025-11-03T05:49:49+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/maryamilyaskhan27-afk/nike-project/activity</loc>
+  <lastmod>2025-11-03T05:49:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/maryamilyaskhan27-afk/nike-project/issues</loc>
+  <lastmod>2025-11-03T05:49:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/maryamilyaskhan27-afk/nike-project/pulls</loc>
+  <lastmod>2025-11-03T05:49:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/maryamilyaskhan27-afk/nike-project/actions</loc>
+  <lastmod>2025-11-03T05:49:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/maryamilyaskhan27-afk/nike-project/security</loc>
+  <lastmod>2025-11-03T05:49:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/maryamilyaskhan27-afk/nike-project/blob/main/index.css</loc>
+  <lastmod>2025-11-03T05:49:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/maryamilyaskhan27-afk/nike-project/blob/main/index.html</loc>
+  <lastmod>2025-11-03T05:49:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/maryamilyaskhan27-afk/nike-project/releases</loc>
+  <lastmod>2025-11-03T05:49:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/maryamilyaskhan27-afk/search?q=repo%3Amaryamilyaskhan27-afk%2Fnike-project++language%3ACSS</loc>
+  <lastmod>2025-11-03T05:49:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/maryamilyaskhan27-afk/search?q=repo%3Amaryamilyaskhan27-afk%2Fnike-project++language%3AHTML</loc>
+  <lastmod>2025-11-03T05:49:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/maryamilyaskhan27-afk/nike-project/labels</loc>
+  <lastmod>2025-11-03T05:49:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/maryamilyaskhan27-afk/nike-project/milestones</loc>
+  <lastmod>2025-11-03T05:49:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/maryamilyaskhan27-afk/nike-project/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2025-11-03T05:49:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/maryamilyaskhan27-afk/nike-project/actions/caches</loc>
+  <lastmod>2025-11-03T05:49:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/maryamilyaskhan27-afk/nike-project/actions/runs/18898016298</loc>
+  <lastmod>2025-11-03T05:49:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/maryamilyaskhan27-afk/nike-project/milestones?state=closed</loc>
+  <lastmod>2025-11-03T05:49:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/maryamilyaskhan27-afk/nike-project/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2025-11-03T05:49:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/maryamilyaskhan27-afk/nike-project/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2025-11-03T05:49:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/maryamilyaskhan27-afk/nike-project/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2025-11-03T05:49:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/maryamilyaskhan27-afk/nike-project/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2025-11-03T05:49:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/maryamilyaskhan27-afk/nike-project/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2025-11-03T05:49:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/maryamilyaskhan27-afk/nike-project/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2025-11-03T05:49:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/maryamilyaskhan27-afk/nike-project/actions/runs/18898016298/job/53939427029</loc>
+  <lastmod>2025-11-03T05:49:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/maryamilyaskhan27-afk/nike-project/actions/runs/18898016298/job/53939447044</loc>
+  <lastmod>2025-11-03T05:49:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/maryamilyaskhan27-afk/nike-project/actions/runs/18898016298/job/53939447083</loc>
+  <lastmod>2025-11-03T05:49:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/maryamilyaskhan27-afk/nike-project/actions/runs/18898016298/usage</loc>
+  <lastmod>2025-11-03T05:49:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/maryamilyaskhan27-afk/nike-project/commit/c02ee55d65c550d914877274f00f8a7345595183</loc>
+  <lastmod>2025-11-03T05:49:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/maryamilyaskhan27-afk/nike-project/commit/b0ac4cfacb76f9c841cf03b1e9c9ae1e81668fe5</loc>
+  <lastmod>2025-11-03T05:49:49+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
